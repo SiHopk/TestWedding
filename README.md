@@ -34,7 +34,7 @@ This class is made of a Couple object names couple, a LocslDate variable called 
 | getCouple() | This method returns the couple object |
 | getDate() | This method returns the weddingDate variable |
 | getLocation | This method returns the location variable |
-| printWeddingInfo() | This method will call the printCoupleInfo() method to print each peron in the couples information, then it will use the getGroom().getFirstName(), getBride.getFirstName(), getDate(), and getLocation() methods to print their names again and the information about the wedding|
+| printWeddingInfo() | This method will call the printCoupleInfo() method to print each peron in the couples information, then it will use the getFirstName(), getDate(), and getLocation() methods to print their names again and the information about the wedding|
 
 ### TestWedding
 This class has only one method, that beingthe main() method. When the program is run this method creates four Person objects, then splits them into two different Couple objects, then it uses each couple to make two Wedding objects, then finally it will call the printWeddingInfo() method from the Wedding class for each of the weddings and prints out their information.
