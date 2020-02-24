@@ -7,6 +7,7 @@ Below will be each class as well as a table for each listing its methods and des
 ### Person
 This class is made up of the String variable firstName, the string variable lastName, and the LocalDate variable birthDate.
 
+
 | Method | Description |
 |:---:|:---:|
 | 'Person()' | This is the class constructor and will give our variables their values |
