@@ -12,7 +12,7 @@ import java.time.*;
 public class TestWedding {
 
     public static void main(String[] args) {
-        Person a = new Person("One", "d=Dude", LocalDate.of(1996,8,8));
+        Person a = new Person("One", "Dude", LocalDate.of(1996,8,8));
         Person b = new Person("Random", "Person", LocalDate.of(1995, 7, 7));
         Person c = new Person("Some", "Guy", LocalDate.of(1994, 6, 6));
         Person d = new Person("Another", "Girl", LocalDate.of(1993, 5, 5));//We make 4 people to be Married and give their info to the Person constructor
