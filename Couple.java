@@ -1,5 +1,5 @@
 /**
- * @author Simon Hopkins
+ * @author SiHopk
  * Date: 2/5/2020
  * This program will have four separate source codes, the Person class will store information about a person, the Couple
  * class will store information about two people as a couple, the Wedding class will hold information about a couple their 
