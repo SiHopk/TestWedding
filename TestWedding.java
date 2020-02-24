@@ -12,10 +12,10 @@ import java.time.*;
 public class TestWedding {
 
     public static void main(String[] args) {
-        Person a = new Person("Simon", "Hopkins", LocalDate.of(1995,6,6));
-        Person b = new Person("Random", "Person", LocalDate.of(1994, 5, 5));
-        Person c = new Person("Some", "Guy", LocalDate.of(1993, 4, 4));
-        Person d = new Person("Another", "Girl", LocalDate.of(1992, 3, 3));//We make 4 people to be Married and give their info to the Person constructor
+        Person a = new Person("One", "d=Dude", LocalDate.of(1996,8,8));
+        Person b = new Person("Random", "Person", LocalDate.of(1995, 7, 7));
+        Person c = new Person("Some", "Guy", LocalDate.of(1994, 6, 6));
+        Person d = new Person("Another", "Girl", LocalDate.of(1993, 5, 5));//We make 4 people to be Married and give their info to the Person constructor
         
         Couple coup1 = new Couple(a,b);
         Couple coup2 = new Couple(c,d);//We seperate those four into two couples and give their info to the Couple constructor
