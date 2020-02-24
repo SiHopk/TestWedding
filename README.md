@@ -10,5 +10,17 @@ This class is made up of the String variable firstName, the string variable last
 
 | Method | Description |
 |:---:|:---:|
-| Person() | This is the class constructor and will give our variables their values |
+| Person() | This is the class constructor and will give our three variables their values |
 | getFirstName() | This method will return the firstName variable |
+| getLastName() | This method will return the lastName variable |
+| getBirth() | This method will return the birthDate variable |
+
+### Couple
+This class is made up of two Person variables bride and groom.
+
+| Method | Description |
+|:---:|:---:|
+| Couple() | This is the class constructor and will give our two variables their values |
+| getGroom() | This method will return the groom variable |
+| getLastName() | This method will return the bride variable |
+| printCoupleInfo() | This method will print out information on each person in the couple by calling the getFirstName(), getLastName(), and|
