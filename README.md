@@ -23,4 +23,6 @@ This class is made up of two Person variables bride and groom.
 | Couple() | This is the class constructor and will give our two variables their values |
 | getGroom() | This method will return the groom variable |
 | getLastName() | This method will return the bride variable |
-| printCoupleInfo() | This method will print out information on each person in the couple by calling the getFirstName(), getLastName(), and|
+| printCoupleInfo() | This method will print out information on each person in the couple by calling the getFirstName(), getLastName(), and getBirth() methods from the Person class|
+
+Wedding
