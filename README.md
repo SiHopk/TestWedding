@@ -10,4 +10,5 @@ This class is made up of the String variable firstName, the string variable last
 
 | Method | Description |
 |:---:|:---:|
-| 'Person()' | This is the class constructor and will give our variables their values |
+| Person() | This is the class constructor and will give our variables their values |
+| getFirstName() | This method will return the firstName variable |
